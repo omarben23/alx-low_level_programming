@@ -1,2 +1,2 @@
-83965fec93b83fa9c9d5
+#!/bin/bash
 gcc -c $CFILE
