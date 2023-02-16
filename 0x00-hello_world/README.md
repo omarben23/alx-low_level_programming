@@ -25,3 +25,25 @@ The C file name will be saved in the variable $CFILE
 
 fivth task : 
 
+******
+
+#include <stdio.h>
+/**
+ * main - program that prints using the puts functions
+ * Return: 0
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+}
+
+****** : Write a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+
+Use the function puts
+You are not allowed to use printf
+Your program should end with the value 0
+
+sixth tast: 
+
+
