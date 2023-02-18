@@ -191,6 +191,31 @@ You can only use putchar twice in your code
 --------------------------
 sixth task: 
 
+#include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: 0 (success)
+ */
+int main(void)
+{
+        int a;
+
+        for (a = 0; a <= 9; a++)
+                printf("%d", a);
+        putchar('\n');
+        return (0);
+}
+
+: 
+
+Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+All your code should be in the main function
+
+-------------------------
+seventh task : 
+
 
 ~
 ~
