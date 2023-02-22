@@ -31,3 +31,7 @@ The program should return 0
 ----------------------------
 task 2 : 
 
+VERY VERY VERY INTERESTING EXERCISE TO LOOK AT 
+-----------------------
+
+
