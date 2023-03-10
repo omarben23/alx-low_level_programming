@@ -1,1 +1,1 @@
-C - Static libraries
+very hard and special tasks
